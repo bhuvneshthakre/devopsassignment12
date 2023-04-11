@@ -3,3 +3,4 @@
 3-tier-architecture
 ```
 The three-tier architecture is a common design pattern used in cloud computing, including on the Amazon Web Services (AWS) platform. It divides an application into three logical tiers, each with its own set of components and functions.
+easy to use
